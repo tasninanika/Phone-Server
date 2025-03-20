@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "price": 799,
+      "features": {
+        "screen": "6.1 inch",
+        "camera": "12MP + 12MP",
+        "battery": "3115mAh",
+        "processor": "A15 Bionic"
+      },
+      "color": ["Black", "White", "Blue", "Red"],
+      "release_date": "2022-09-16"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23",
+      "brand": "Samsung",
+      "price": 899,
+      "features": {
+        "screen": "6.1 inch",
+        "camera": "50MP + 10MP + 12MP",
+        "battery": "3900mAh",
+        "processor": "Snapdragon 8 Gen 2"
+      },
+      "color": ["Phantom Black", "Green", "Cream", "Lavender"],
+      "release_date": "2023-02-17"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 7",
+      "brand": "Google",
+      "price": 599,
+      "features": {
+        "screen": "6.3 inch",
+        "camera": "50MP + 12MP",
+        "battery": "4355mAh",
+        "processor": "Google Tensor G2"
+      },
+      "color": ["Obsidian", "Snow", "Lemongrass"],
+      "release_date": "2022-10-13"
+    }
+  ]
+  
